@@ -1,0 +1,25 @@
+- @{ } is for writing C# code inside a .cshtml razor page.
+- Dynamic text dynamically change based on Properties(No req to chg)
+- @foreach (var item in Model?.Categories) //Here Retriving List From Model
+- cnt + alt + select <- for multiple selection changing
+- If you use TrustServerCertificate=true (or its equivalent) in the connection string, the
+  connection process skips the trust chain validation
+- If any issue found in Project Plz clean
+- Audit usage of navigator.userAgent, navigator.appVersion, and navigator.platform <- Is the error
+  of Compatibility by Browser(Not Supported some properties of css or any)
+- Try to close hidden. bs. modal <- This click on modal backdrop(by this all previous background
+  all modals close by this)
+- Is IEnumerable is faster than List in C# bec IEnumerable gets the data when needed
+- data-target is used by bootstrap contain a CSS selector that points to the HTML Element that
+  will be changed <- that will be changed meaning according by user
+- data-target <- target div element where our modal exist
+- A class library is a collection of class definitions contained in a . dll or .exe file
+- Migrations is depended on AddControllersWithViews, UseStaticFiles & UseRouting
+- Clean Architecture :- BusinessLayer(Mig,Repo,Interface), DataLayer(DbContext,Models),
+  ApplicationLayer(Controllers,Views(UI))
+  Note:- Clean Architecture also known by 3-Tier Architecture
+- <level> replacer of <th> in html for using without tabel or tr
+- mb - for classes that set margin-bottom, modal-dialog is popup, modal fade is an effect that fades modal in
+  and out, modal-content for content
+- return View() <- return own View in View Html and markup(Xml) data
+- excel time reduce of downloading file
